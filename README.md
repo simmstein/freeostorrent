@@ -10,8 +10,8 @@ Gnu/Linux - Nginx - MySQL - PHP
 
 <h2>ETAPES DE CONFIGURATION :</h2>
 1 - Installer xbt tracker (http://xbtt.sourceforge.net/tracker/) - Vous trouverez plein d'infos également ici --> http://visigod.com/xbt-tracker/table-documentation<br />
-2 - Installer les fichiers freeostorrent à la racine de votre site web. Mettez les permissions à 0777 sur certains repertaoires : torrents/, images/ ... et 0755 sur les autres répertoires.<br />
-3 - Compléter / modifier le fichier config.php dans le répertoire includes/
+2 - Installer les fichiers freeostorrent à la racine de votre site web. Mettez les permissions à 0777 sur certains repertoires : torrents/, images/ ... et 0755 sur les autres répertoires.<br />
+3 - Compléter / modifier le fichier config.php dans le répertoire includes/<br />
 4 - Installer la base de données MySQL en la modifiant selon vos besoins...<br />
 5 - Installer le crontab (crontab -e) tel que présenté dans le fichier crontab.txt. Une fois le crontab installé, vous pouvez supprimer ce fichier crontab.txt.<br />
 6 - Ce projet tourne actuellement sous Nginx. Voici une partie du fichier nginx pour le site concernant les "rewrite" qui sont très importants :<br />
