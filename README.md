@@ -33,5 +33,8 @@ Gnu/Linux - Nginx - MySQL - PHP
             #satisfy any;<br />
             #allow all;<br />
         }<br />
-<br />
+
+<h2>LICENCE :</h2>
+GPL v.3 (http://www.gnu.org/copyleft/gpl.html)
+<br /><br />
 Site web d'origine : http://www.freeostorrent.fr
