@@ -26,6 +26,7 @@ define('SITESLOGAN','xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'); // 
 define('SITEDESCRIPTION','xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'); // DEscription du site
 define('SITEURL','xxxxxxxxxxxxxxxxxxxxxxxxx'); // URL complete du site
 define('SITEMAIL','xxxxxxxxxxxxxxxxxxxxxxxxx'); // E-mail de contact pour le site
+define('SITEAUTHOR','xxxxxxxxxxxxxx'); // Auteur/webmaster
 define('ANNOUNCEPORT','xxxxx'); // port d'announce de XBTT
 define('SITEVERSION','xxxxxx'); // N° de version de votre site
 define('SITEDATE','xxxxxxxxxxx'); // Date de la dernière mise à jour de votre site

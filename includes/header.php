@@ -3,13 +3,13 @@
 <head>
    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
    <meta http-equiv="content-language" content="fr-FR" />
-   <link rel="alternate" hreflang="fr" href="http://www.freeostorrent.fr/" />
+   <link rel="alternate" hreflang="fr" href="<?php echo SITEURL; ?>" />
    <title><?php echo SITESLOGAN; ?> - <?php echo $pagetitle; ?></title>
    <meta name="language" content="fr-FR" />
    <meta name="robots" content="all" />
    <meta name="description" content="<?php echo SITEDESCRIPTION; ?>" />
    <link rel="icon" href="favicon.ico" />
-   <link rel="author" href="mailto:webmaster@freeostorrent.fr" xml:lang="fr-FR" title="Olivier Prieur" />
+   <link rel="author" href="mailto:<?php echo SITEMAIL; ?>" xml:lang="fr-FR" title="<?php echo SITEAUTHOR; ?>" />
    <link rel="stylesheet" href="<?php echo SITEURL; ?>/style/normalize.css">
    <link rel="stylesheet" href="<?php echo SITEURL; ?>/style/main.css">
    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
