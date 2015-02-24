@@ -1,0 +1,1 @@
+*/55 * * * * php -f /var/www/freeostorrent.fr/logs/cron_log.php | while read line; do echo `/bin/date` "$line" >> /var/www/freeostorrent.fr/logs/announce-cron.log; done
